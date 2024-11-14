@@ -21,7 +21,7 @@ class Home extends StatelessWidget {
         title: Text('My Profile'),
         backgroundColor: Colors.amber,
           titleTextStyle: TextStyle(
-            color: Colors.black, // Set the title color here
+            color: Colors.black,
             fontSize: 16,
           ),
         actions: [
